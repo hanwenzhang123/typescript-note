@@ -1,5 +1,7 @@
 # Typescript Note
 
+[Redux in TypeScript](https://redux.js.org/usage/usage-with-typescript)
+
 #### useRef "Object is possibly null" error in React
 - The exclamation mark is called the non-null assertion operator in TypeScript. 
 - It is used to remove null and undefined from a type without doing any explicit type checking.
